@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mr.californication/Documents/Homeworks/Homeworks.csproj": {}
+    "/Users/mr.californication/Documents/Homeworks/Lesson1/Lesson1.csproj": {}
   },
   "projects": {
-    "/Users/mr.californication/Documents/Homeworks/Homeworks.csproj": {
+    "/Users/mr.californication/Documents/Homeworks/Lesson1/Lesson1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mr.californication/Documents/Homeworks/Homeworks.csproj",
-        "projectName": "Homeworks",
-        "projectPath": "/Users/mr.californication/Documents/Homeworks/Homeworks.csproj",
+        "projectUniqueName": "/Users/mr.californication/Documents/Homeworks/Lesson1/Lesson1.csproj",
+        "projectName": "Lesson1",
+        "projectPath": "/Users/mr.californication/Documents/Homeworks/Lesson1/Lesson1.csproj",
         "packagesPath": "/Users/mr.californication/.nuget/packages/",
-        "outputPath": "/Users/mr.californication/Documents/Homeworks/obj/",
+        "outputPath": "/Users/mr.californication/Documents/Homeworks/Lesson1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mr.californication/.nuget/NuGet/NuGet.Config"
